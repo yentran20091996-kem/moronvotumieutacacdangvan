@@ -1,0 +1,6 @@
+{
+  "name": "Hành Trình Ngôn Từ",
+  "description": "Nền tảng học tập tương tác giúp học sinh lớp 5 mở rộng vốn từ biểu cảm, nâng cấp câu văn giàu hình ảnh và làm chủ 4 dạng bài tập làm văn trọng tâm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
