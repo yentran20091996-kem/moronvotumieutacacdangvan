@@ -14,7 +14,6 @@ const currentDir =
 
 export default defineConfig(() => {
   return {
-    root: currentDir,
     base: '/',
     plugins: [
       react(),
